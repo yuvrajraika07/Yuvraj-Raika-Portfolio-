@@ -19,10 +19,10 @@ A website presenting my projects.
 
 # 📍 Access
 
-* The website is online at the address : **[angeluriot.com](https://www.angeluriot.com/)**.
+* The website is online at the address : **[yuvrajraika .com]()*.
 
 <br/>
 
 # 🙏 Credits
 
-* [**Angel Uriot**](https://github.com/angeluriot) : Creator of the project.
+* [**yuvraj raika **](https://github.com/yuvrajraika07) : Creator of the project.

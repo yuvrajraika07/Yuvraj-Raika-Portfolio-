@@ -1,0 +1,118 @@
+{
+	"skills_categories":
+	[
+		{
+			"name" : "Software Development",
+			"skills" :
+			[
+
+
+
+				{
+					"name": "Java",
+					"logo": "resources/svgs/skills/Java.svg",
+					"link": "https://en.wikipedia.org/wiki/Java_(programming_language)"
+				},
+
+				{
+					"name": "C",
+					"logo": "resources/svgs/skills/C.svg",
+					"link": "https://en.wikipedia.org/wiki/C_(programming_language)"
+				},
+				{
+					"name": "C++",
+					"logo": "resources/svgs/skills/Cpp.svg",
+					"link": "https://en.wikipedia.org/wiki/C%2B%2B"
+				},
+				
+				{
+					"name": "JavaFX",
+					"logo": "resources/svgs/skills/JavaFX.svg",
+					"link": "https://openjfx.io"
+				},
+				
+				{
+					"name": "Git",
+					"logo": "resources/svgs/skills/Git.svg",
+					"link": "https://git-scm.com/"
+				}
+			]
+		},
+		
+		{
+			"name" : "Back-end Web",
+			"skills" :
+			[
+				{
+					"name": "Spring Boot ",
+					"logo":"resources/svgs/skills/Boot.svg",
+					"link":"https://spring.io/projects/spring-boot"
+
+					
+				},
+			
+				{
+					"name": "JavaScript",
+					"logo": "resources/svgs/skills/JavaScript.svg",
+					"link": "https://en.wikipedia.org/wiki/JavaScript"
+				},
+				
+				{
+					"name": "C++",
+					"logo": "resources/svgs/skills/C_sharp.svg",
+					"link": "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"
+				},
+				
+				{
+					"name": "SQL",
+					"logo": "resources/svgs/skills/Sql.svg",
+					"link": "https://sql.sh"
+				},
+				
+				{
+					"name": "Git",
+					"logo": "resources/svgs/skills/Git.svg",
+					"link": "https://git-scm.com/"
+				}
+			]
+		},
+		{
+			"name" : "Front-end Web",
+			"skills" :
+			[
+				{
+					"name": "HTML",
+					"logo": "resources/svgs/skills/Html.svg",
+					"link": "https://en.wikipedia.org/wiki/HTML"
+				},
+				{
+					"name": "CSS",
+					"logo": "resources/svgs/skills/Css.svg",
+					"link": "https://en.wikipedia.org/wiki/CSS"
+				},
+				{
+					"name": "JavaScript",
+					"logo": "resources/svgs/skills/JavaScript.svg",
+					"link": "https://en.wikipedia.org/wiki/JavaScript"
+				},
+				
+				{
+					"name": "jQuery",
+					"logo": "resources/svgs/skills/JQuery.svg",
+					"link": "https://jquery.com/"
+				},
+				{
+					"name": "Bootstrap",
+					"logo": "resources/svgs/skills/Bootstrap.svg",
+					"link": "https://getbootstrap.com/"
+				},
+				
+				{
+					"name": "React",
+					"logo": "resources/svgs/skills/React.svg",
+					"link": "https://www.flaticon.com/free-icons/react"
+				}
+			]
+		}
+	]
+}

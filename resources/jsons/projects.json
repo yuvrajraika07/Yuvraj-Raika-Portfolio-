@@ -1,0 +1,177 @@
+{
+	"projects":
+	[
+		
+		{
+			"date": 2024,
+			"type": "Personal Project",
+			"title": "Maze Solver",
+			"description": "It is an interactive web application that can create and solve mazes. You can choose among several different algorithms, move the start and the finish or draw your own walls...",
+			"tags":
+			[
+				{ "name": "JavaScript", "url": "https://en.wikipedia.org/wiki/JavaScript" },
+				{ "name": "HTML", "url": "https://en.wikipedia.org/wiki/HTML" },
+				{ "name": "CSS", "url": "https://en.wikipedia.org/wiki/CSS" }
+			],
+			"links":
+			[
+				"https://github.com/yuvrajraika07/Maze_solver.git",
+				"https://github.com/yuvrajraika07/Maze_solver.git",
+				"https://www.yuvrajraika07/maze_solver/"
+			],
+			"video": "resources/videos/projects/Maze_solver.mp4",
+			"image": "resources/images/projects/Maze_solver.webp",
+			"logo": "resources/svgs/projects/Maze_solver.svg",
+			"categories": ["Personal", "Web"]
+		},
+		
+		
+		{
+			"date": 2024,
+			"type": "instagram Project",
+			"title": "instagram clone",
+			"description": "Users can upload photographs and short videos ollow other users' feeds and geotag images with the name of a location.Users can set their account as private thereby requiring that they approve any new follower requests.Users can connect their Instagram account to other social networking sites, enabling them to share uploaded photos to those sites Instagram Reels is the short-form section of the American social media platform Instagram.    ",
+			"tags":
+			[
+				{ "name": "Java", "url": "https://www.java.com/en/" },
+				{ "name": "Spring BOot", "url": "https://www.bing.com/search?filters=ufn%3a%22Spring+Boot%22+sid%3a%2252816eb8-0c00-fe7f-30df-8494789add0f%22&qs=MB&pq=sp&sk=CSYN1UAS7LS3AS8FT1LC1HS1&sc=25-2&q=spring+boot&cvid=449cd6baeb694cd4ba8e052bbf196594&gs_lcrp=EgRlZGdlKgYIAhAuGEAyBggAEEUYOTIGCAEQABhAMgYIAhAuGEAyBggDEEUYOzIGCAQQRRg7MgYIBRBFGDwyBggGEEUYPTIGCAcQRRg8MgYICBBFGDzSAQg0ODg3ajBqNKgCCLACAQ&FORM=ANAB01&PC=U531" }
+			],
+			"links":
+			[
+				"https://github.com/yuvrajraika07/Instagram-server.git",
+				"https://github.com/yuvrajraika07/Instagram-server.git",
+				"https://github.com/angeluriot/yuvrajraika01/releases"
+			],
+			
+			"image": "resources/images/projects/instagram.avif",
+			"logo": "resources/svgs/projects/Sandbox.svg",
+			"categories": ["Personal", "Simulations"]
+		},
+
+		{
+			"date": 2024,
+			"type": "Personal Project",
+			"title": "Proverbot",
+			"description": "This project is a bot that generate random French proverb images and post them every day on its own Twitter account (with more than 10 thousand followers)...",
+			"tags":
+			[
+				{ "name": "TypeScript", "url": "https://www.typescriptlang.org/" },
+				{ "name": "NodeJS", "url": "https://nodejs.org/en/" }
+			],
+			"links":
+			[
+				"https://github.com/yuvrajraika07/Proverbot.git",
+				"https://github.com/yuvrajraika07/Proverbot.git",
+				"https://twitter.com/TheProverbot"
+			],
+			"video": "resources/videos/projects/Proverbot.mp4",
+			"image": "resources/images/projects/Proverbot.webp",
+			"logo": "resources/svgs/projects/Proverbot.svg",
+			"categories": ["Personal", "Web", "AI"]
+		},
+		
+		
+		{
+			"date": 2024,
+			"type": "Online Air Ticket Booking System",
+			"title": "Online Air Ticket Booking ",
+			"description": "An online airline ticket system using Java Spring MVC and Hibernate Build tool used - Apache Maven Database vendor used - MySQLAll JavaMail functionality upcoming  ",
+			"tags":
+			[
+				{ "name": "Java", "url": "https://www.java.com/en/" },
+				{ "name": "Spring BOot", "url": "https://www.bing.com/search?filters=ufn%3a%22Spring+Boot%22+sid%3a%2252816eb8-0c00-fe7f-30df-8494789add0f%22&qs=MB&pq=sp&sk=CSYN1UAS7LS3AS8FT1LC1HS1&sc=25-2&q=spring+boot&cvid=449cd6baeb694cd4ba8e052bbf196594&gs_lcrp=EgRlZGdlKgYIAhAuGEAyBggAEEUYOTIGCAEQABhAMgYIAhAuGEAyBggDEEUYOzIGCAQQRRg7MgYIBRBFGDwyBggGEEUYPTIGCAcQRRg8MgYICBBFGDzSAQg0ODg3ajBqNKgCCLACAQ&FORM=ANAB01&PC=U531" }
+			],
+			"links":
+			[
+				"https://github.com/yuvrajraika07/OnlineAirTicketBooking.git",
+				"https://github.com/yuvrajraika07/OnlineAirTicketBooking.git",
+				"https://github.com//yuvrajraika01/releases"
+			],
+			
+			"image": "resources/images/projects/Online Air Ticket Booking.avif",
+			"logo": "resources/svgs/projects/Sandbox.svg",
+			"categories": ["Personal", "Simulations"]
+		},
+
+		
+		
+		
+		{
+			"date": 2024,
+			"type": "Amazon",
+			"title": "Amazon ",
+			"description": "We were a team of 4 from the Masai Web-15 batch. We worked on creating REST API and writing business logic for an E-commerce application. Our project performs fundamental operations of an e-commerce website, where our customer's data is validated, mapped, processed with business logic & persisted in the database ",
+			"tags":
+			[
+				{ "name": "Java", "url": "https://www.java.com/en/" },
+				{ "name": "Spring BOot", "url": "https://www.bing.com/search?filters=ufn%3a%22Spring+Boot%22+sid%3a%2252816eb8-0c00-fe7f-30df-8494789add0f%22&qs=MB&pq=sp&sk=CSYN1UAS7LS3AS8FT1LC1HS1&sc=25-2&q=spring+boot&cvid=449cd6baeb694cd4ba8e052bbf196594&gs_lcrp=EgRlZGdlKgYIAhAuGEAyBggAEEUYOTIGCAEQABhAMgYIAhAuGEAyBggDEEUYOzIGCAQQRRg7MgYIBRBFGDwyBggGEEUYPTIGCAcQRRg8MgYICBBFGDzSAQg0ODg3ajBqNKgCCLACAQ&FORM=ANAB01&PC=U531" }
+			],
+			"links":
+			[
+				"https://github.com/yuvrajraika07/Amazon-Java-Backend-Project.git",
+				"https://github.com/yuvrajraika07/Amazon-Java-Backend-Project.git",
+				"https://github.com//yuvrajraika01/releases"
+			],
+			
+			"image": "resources/images/projects/Amazon.avif",
+			"logo": "resources/svgs/projects/Sandbox.svg",
+			"categories": ["Personal", "Simulations"]
+		},
+		{
+			"date": 2024,
+			"type": "Personal Project",
+			"title": "Galaxy Simulation",
+			"description": "This program is an n-body type simulation using GPU acceleration. It is able to simulate galaxies, galaxy collisions and universes. You can choose a lot of parameters like the speed of the stars, the shape of the galaxy, and more...",
+			"tags":
+			[
+				{ "name": "C++", "url": "https://en.wikipedia.org/wiki/C%2B%2B" },
+				{ "name": "OpenCL", "url": "https://www.khronos.org/opencl/" },
+				{ "name": "OpenGL", "url": "https://www.opengl.org//" },
+				{ "name": "ImGui", "url": "https://github.com/ocornut/imgui" }
+			],
+			"links":
+			[
+				"https://github.com/yuvrajraika07/Galaxy_simulation.git",
+				"https://github.com/yuvrajraika07/Galaxy_simulation.git",
+				"https://github.com/yuvrajraika07/Galaxy_simulation/releases"
+			],
+			"video": "resources/videos/projects/Galaxy_simulation.mp4",
+			"image": "resources/images/projects/Galaxy_simulation.webp",
+			"logo": "resources/svgs/projects/Galaxy_simulation.svg",
+			"categories": ["Personal", "Simulations"]
+		},
+		
+		
+		
+		
+		
+		
+
+
+		{
+			"date": 2022,
+			"type": " college Project",
+			"title": "Minecraft Clone",
+			"description": "This program takes its concept from the famous game Minecraft. It procedurally generates an infinite world, the player can break blocks and there are different biomes and mobs...",
+			"tags":
+			[
+				{ "name": "C++", "url": "https://en.wikipedia.org/wiki/C%2B%2B" },
+				{ "name": "OpenGL", "url": "https://www.opengl.org//" },
+				{ "name": "SDL2", "url": "https://www.libsdl.org/download-2.0.php" }
+			],
+			"links":
+			[
+				"hhttps://github.com/yuvrajraika07/Minecraft_clone.git",
+				"https://github.com/yuvrajraika07/Minecraft_clone.git",
+				"https://github.com/yuvrajraika07/Minecraft_clone/releases"
+			],
+			"video": "resources/videos/projects/Minecraft_clone.mp4",
+			"image": "resources/images/projects/Minecraft_clone.webp",
+			"logo": "resources/svgs/projects/Minecraft_clone.svg",
+			"categories": ["School"]
+		}
+
+
+		
+	]
+}
